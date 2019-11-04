@@ -1,0 +1,28 @@
+_repo: The-Cinder-Buggy-A-Fable-in-Iron-and-Steel_60593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Garet
+    alias: Garrett, Edward Peter
+    birthdate: 1878
+    deathdate: 1954
+    gutenberg_agent_id: '51042'
+    url: http://www.gutenberg.org/2009/agents/51042
+    wikipedia: https://en.wikipedia.org/wiki/Garet_Garrett
+description: ''
+gutenberg_issued: '2019-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steel industry and trade -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Iron industry and trade -- Fiction'
+- GITenberg
+title: 'The Cinder Buggy: A Fable in Iron and Steel'
+url: http://www.gutenberg.org/ebooks/60593
